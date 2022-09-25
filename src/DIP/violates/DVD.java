@@ -4,8 +4,12 @@ package DIP.violates;
 public class DVD {
 
     void seeReviews() {
+
+
     }
 
     void watchSample() {
+
+
     }
 }

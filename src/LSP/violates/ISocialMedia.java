@@ -2,7 +2,7 @@ package LSP.violates;
 
 public interface ISocialMedia {
 
-    //@support Facebook,
+    //@support Facebook and WhatsApp
     public abstract  void chatWithFriend();
 
     //@support Facebook
